@@ -22,8 +22,8 @@ extension HStack {
     ///
     /// The `Spacing` value is applied as the horizontal spacing between elements in the `HStack`.
     ///
-    /// Example of usage:
-    ///
+    /// Usage
+    /// ------
     /// ```swift
     /// HStack(spacing: .medium) {
     ///     Image(systemName: "star")

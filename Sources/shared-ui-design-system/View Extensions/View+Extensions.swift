@@ -17,8 +17,8 @@ extension View {
     ///
     /// - Returns: A view that pads this view inside the resulting view by the amount you specify.
     ///
-    /// Example of usage:
-    ///
+    /// Usage
+    /// ------
     /// ```swift
     /// Text("Hello, World!")
     ///     .padding(.medium)
@@ -44,8 +44,8 @@ extension View {
     ///
     /// - Returns: A view modified with a pill appearance and specified color settings.
     ///
-    /// Example of usage:
-    ///
+    /// Usage
+    /// ------
     /// ```swift
     /// Text("Pill Style")
     ///     .pillStyle(

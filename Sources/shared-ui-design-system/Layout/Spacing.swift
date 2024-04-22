@@ -15,8 +15,8 @@ import Foundation
 ///
 /// Use these values for setting margins, paddings, and any other layout spacing needs.
 ///
-/// Examples of usage:
-///
+/// Usage
+/// ------
 /// ```swift
 /// VStack(spacing: Spacing.medium) {
 ///     Text("Item 1")

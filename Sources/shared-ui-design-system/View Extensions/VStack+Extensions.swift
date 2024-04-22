@@ -22,8 +22,8 @@ extension VStack {
     ///
     /// The `Spacing` value is applied as the vertical spacing between elements in the `VStack`.
     ///
-    /// Example of usage:
-    ///
+    /// Usage
+    /// ------
     /// ```swift
     /// VStack(spacing: .medium) {
     ///     Text("First Item")
