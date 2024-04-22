@@ -1,4 +1,4 @@
-# shared-ui-design-system
+# shared-ui-design-system
 
 A Swift Package to encapsulate and centralize custom controls, helpers, extensions, and anything related to UI that can be shared across apps.
 
